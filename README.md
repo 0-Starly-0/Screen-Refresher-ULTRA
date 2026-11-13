@@ -1,46 +1,42 @@
-# Burn-In-Fixer
+# Screen Refresher - ULTRA (A.K.A Burn-In-Fixer)
 **A multi-use, advanced but also simplistic tool to fix Burn-In issues on your screen. Heavily customizable.**
 
-A quick script, made in a day, without intent to be serious, and can be used almost anywhere.
-Download the script and have any webcam availiable, and the magic will be done. Not very configurable though.
-
-***Make sure to change TargetImage to whatever image you'd like to be displayed on the censor!***
-***The original image was meant to be a placeholder and is not meant to be used, you can if you'd like though, not stopping you.***
-The default image is a bit... odd.
+An easy script, without flashy and overly complicated visuals, to potentially save your screen.
+Download the script configure it yourself, or just set a timer and leave the rest at default, and the magic will be done. Very configurable.
 
 <hr>
 
 ## Download the files here:
-**WinRAR  ||  ZIP**
+**WinRAR - Currently N/A  ||  ZIP**
 
-<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/Downloadable/FaceHider.rar"><img src="https://www.rw-designer.com/icon-image/21764-256x256x32.png" width="50" height="50" alt="Download"></a>
-<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/DownloadabIe/FaceHider.zip"><img src="https://adamraichu.gallerycdn.vsassets.io/extensions/adamraichu/zip-viewer/3.18.0/1741102886595/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Download"></a>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-winrar-icon-svg-download-png-7853992.png?f=webp" width="50" height="50" alt="Not Yet Availiable"> <a href="https://github.com/0-Starly-0/Burn-In-Fixer/releases/download/Downloadable/BurnInFixer.zip"><img src="https://adamraichu.gallerycdn.vsassets.io/extensions/adamraichu/zip-viewer/3.18.0/1741102886595/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Download"></a>
 
 **Alternatively, have the raw links:**
 
-<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/Downloadable/FaceHider.rar">Download as RAR</a>
+RAR not currently availiable. Will be uploaded soon!
 
-https://github.com/0-Starly-0/Face-Hider/releases/download/Downloadable/FaceHider.rar
+↓ Go to ZIP instead
 
 =============================
 
-<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/DownloadabIe/FaceHider.zip">Download as ZIP</a>
+<a href="https://github.com/0-Starly-0/Burn-In-Fixer/releases/download/Downloadable/BurnInFixer.zip">Download as ZIP</a>
 
-https://github.com/0-Starly-0/Face-Hider/releases/download/DownloadabIe/FaceHider.zip
+https://github.com/0-Starly-0/Burn-In-Fixer/releases/download/Downloadable/BurnInFixer.zip
 
 <hr>
 
-***The script will open the terminal, to close it, either:***
+***The script will open the main window to setup what you'll be fixing:***
 
-***Press*** `CTRL + ALT + P` **|** ***Close the terminal window***
+* Use the diagnostic tool to use multiple colors to test the dead pixels in your screen,
+* Configure the window mode, a timer, screen brightness and delay,
+* Select the colors you will use to fix your screen,
+* Click start, sit back, and watch!
 
-***In order to close the script, it will exit cleanly and will not leave traces.***
+***What this script does different from the usual burn-in fixer tool:***
+* Has a windowed mode if you still want to use your PC while fixing (And to prevent oopsies).
+* Has configurations suited for OLED monitors and other devices (Brightness/colors).
+* Has a set timer but also gives free reign to stop at anytime.
+* Has a soft pixel wake-up mode or a hard pixel-reset mode (By setting the delay).
 
-This script will:
-* Get your main webcam automatically (Usually selected by your PC as your main webcam)
-* Pass the image through a library, client-sided only library (for full privacy)
-* Apply the filter, and add the image overlay on top of your face
-* Paste the filter image back into a window created for sharing
-
-*This script will not serve as a replacement for OBS's native Virtual Webcam.*
+*This script will not fix any PHYSICAL damages to your monitor, it tries its best, you know? Don't bully it.*
 *Instead, try sharing the window using Window Capture, and it should work.*
