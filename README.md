@@ -38,4 +38,8 @@ https://github.com/0-Starly-0/Burn-In-Fixer/releases/download/Downloadable/BurnI
 * Has a set timer but also gives free reign to stop at anytime.
 * Has a soft pixel wake-up mode or a hard pixel-reset mode (By setting the delay).
 
-*This script will not fix any PHYSICAL damages to your monitor, it tries its best, you know? Don't bully it.*
+<hr>
+
+***Quick disclaimer:***
+
+### This script will not fix any PHYSICAL damages to your monitor, it tries its best, you know? Don't bully it.
